@@ -1,0 +1,2490 @@
+List of Airports
+
+Barter Island --- BTI --- Barter Island LRRS Airport
+
+Cape Lisburne --- LUR --- Cape Lisburne LRRS Airport
+
+Point Lay --- PIZ --- Point Lay LRRS Airport
+
+Hilo --- ITO --- Hilo International Airport
+
+Orlando --- ORL --- Orlando Executive Airport
+
+Bettles --- BTT --- Bettles Airport
+
+Indian Mountains --- UTO --- Indian Mountain LRRS Airport
+
+Fort Yukon --- FYU --- Fort Yukon Airport
+
+Sparrevohn --- SVW --- Sparrevohn LRRS Airport
+
+Fort Richardson --- FRN --- Bryant Army Heliport
+
+Tatalina --- TLJ --- Tatalina LRRS Airport
+
+Cape Romanzof --- CZF --- Cape Romanzof LRRS Airport
+
+Bedford --- BED --- Laurence G Hanscom Field
+
+St. Paul Island --- SNP --- St Paul Island Airport
+
+Cape Newenham --- EHM --- Cape Newenham LRRS Airport
+
+Point Barrow --- STG --- St George Airport
+
+Iliamna --- ILI --- Iliamna Airport
+
+Port Moller --- PTU --- Platinum Airport
+
+Big Mountain --- BMX --- Big Mountain Airport
+
+Oscoda --- OSC --- Oscoda Wurtsmith Airport
+
+Fort Ord --- OAR --- Marina Municipal Airport
+
+Sacramento --- MHR --- Sacramento Mather Airport
+
+Fort Irwin --- BYS --- Bicycle Lake Army Air Field
+
+Fort Smith --- FSM --- Fort Smith Regional Airport
+
+Anchorage --- MRI --- Merrill Field
+
+Grants --- GNT --- Grants-Milan Municipal Airport
+
+Ponca City --- PNC --- Ponca City Regional Airport
+
+Hunter Aaf --- SVN --- Hunter Army Air Field
+
+Grand Forks --- GFK --- Grand Forks International Airport
+
+Pine Bluff --- PBF --- Pine Bluff Regional Airport, Grider Field
+
+Milton --- NSE --- Whiting Field Naval Air Station - North
+
+Hana --- HNM --- Hana Airport
+
+Prescott --- PRC --- Ernest A. Love Field
+
+Trenton --- TTN --- Trenton Mercer Airport
+
+Boston --- BOS --- General Edward Lawrence Logan International Airport
+
+Fairfield --- SUU --- Travis Air Force Base
+
+Rome --- RME --- Griffiss International Airport
+
+Wendover --- ENV --- Wendover Airport
+
+Mobile --- BFM --- Mobile Downtown Airport
+
+Oakland --- OAK --- Metropolitan Oakland International Airport
+
+Omaha --- OMA --- Eppley Airfield
+
+Kahului --- OGG --- Kahului Airport
+
+Wichita --- ICT --- Wichita Eisenhower National Airport
+
+Kansas City --- MCI --- Kansas City International Airport
+
+Madison --- MSN --- Dane County Regional Truax Field
+
+Dillingham --- DLG --- Dillingham Airport
+
+Harrison --- HRO --- Boone County Airport
+
+Phoenix --- PHX --- Phoenix Sky Harbor International Airport
+
+Bangor --- BGR --- Bangor International Airport
+
+Fort Lauderdale --- FXE --- Fort Lauderdale Executive Airport
+
+Longview --- GGG --- East Texas Regional Airport
+
+Andersen --- AND --- Anderson Regional Airport
+
+Spokane --- GEG --- Spokane International Airport
+
+Hollywood --- HWO --- North Perry Airport
+
+San Francisco --- SFO --- San Francisco International Airport
+
+Cutbank --- CTB --- Cut Bank International Airport
+
+Louisiana --- ARA --- Acadiana Regional Airport
+
+Gainesville --- GNV --- Gainesville Regional Airport
+
+Memphis --- MEM --- Memphis International Airport
+
+Douglas --- DUG --- Bisbee Douglas International Airport
+
+Delta Junction --- BIG --- Allen Army Airfield
+
+Waco --- CNW --- TSTC Waco Airport
+
+Annette Island --- ANN --- Annette Island Airport
+
+Caribou --- CAR --- Caribou Municipal Airport
+
+Jacksonville --- LRF --- Little Rock Air Force Base
+
+Redstone --- HUA --- Redstone Army Air Field
+
+Fort Bragg --- POB --- Pope Field
+
+Dalhart --- DHT --- Dalhart Municipal Airport
+
+Del Rio --- DLF --- DLF Airport
+
+Los Angeles --- LAX --- Los Angeles International Airport
+
+Anniston --- ANB --- Anniston Regional Airport
+
+Cleveland --- CLE --- Cleveland Hopkins International Airport
+
+Dover --- DOV --- Dover Air Force Base
+
+Cincinnati --- CVG --- Cincinnati Northern Kentucky International Airport
+
+Fort Meade --- FME --- Tipton Airport
+
+Huron --- HON --- Huron Regional Airport
+
+Juneau --- JNU --- Juneau International Airport
+
+Lafayette --- LFT --- Lafayette Regional Airport
+
+Newark --- EWR --- Newark Liberty International Airport
+
+Boise --- BOI --- Boise Air Terminal/Gowen Field
+
+Indian Springs --- INS --- Creech Air Force Base
+
+Garden City --- GCK --- Garden City Regional Airport
+
+Minot --- MOT --- Minot International Airport
+
+Wahiawa --- HHI --- Wheeler Army Airfield
+
+Baltimore --- BWI --- Baltimore Washington International Airport
+
+Montgomery --- MXF --- Maxwell Air Force Base
+
+Dallas --- DAL --- Dallas Love Field
+
+Fort Carson --- FCS --- Butts AAF (Fort Carson) Air Field
+
+Helena --- HLN --- Helena Regional Airport
+
+Miramar --- NKX --- Miramar Marine Corps Air Station - Mitscher Field
+
+Phoenix --- LUF --- Luke Air Force Base
+
+Hawthorne --- HHR --- Jack Northrop Field Hawthorne Municipal Airport
+
+Houlton --- HUL --- Houlton International Airport
+
+Enid --- END --- Vance Air Force Base
+
+Point Mugu --- NTD --- Point Mugu Naval Air Station (Naval Base Ventura Co)
+
+Edwards Afb --- EDW --- Edwards Air Force Base
+
+Lake Charles --- LCH --- Lake Charles Regional Airport
+
+Kona --- KOA --- Ellison Onizuka Kona International At Keahole Airport
+
+Myrtle Beach --- MYR --- Myrtle Beach International Airport
+
+Lemoore --- NLC --- Lemoore Naval Air Station (Reeves Field) Airport
+
+Nantucket --- ACK --- Nantucket Memorial Airport
+
+Fort Eustis --- FAF --- Felker Army Air Field
+
+Hopkinsville --- HOP --- Campbell AAF (Fort Campbell) Air Field
+
+Washington --- DCA --- Ronald Reagan Washington National Airport
+
+Patuxent River --- NHK --- Patuxent River Naval Air Station (Trapnell Field)
+
+Palacios --- PSX --- Palacios Municipal Airport
+
+Blytheville --- BYH --- Arkansas International Airport
+
+Atlantic City --- ACY --- Atlantic City International Airport
+
+Oklahoma City --- TIK --- Tinker Air Force Base
+
+Elizabeth City --- ECG --- Elizabeth City Regional Airport & Coast Guard Air Station
+
+Pueblo --- PUB --- Pueblo Memorial Airport
+
+Presque Isle --- PQI --- Northern Maine Regional Airport at Presque Isle
+
+Fort Lewis --- GRF --- Gray Army Air Field
+
+Kodiak --- ADQ --- Kodiak Airport
+
+Opolu --- UPP --- Upolu Airport
+
+Fort Lauderdale --- FLL --- Fort Lauderdale Hollywood International Airport
+
+International Falls --- INL --- Falls International Airport
+
+Salt Lake City --- SLC --- Salt Lake City International Airport
+
+Childress --- CDS --- Childress Municipal Airport
+
+Biloxi --- BIX --- Keesler Air Force Base
+
+Fort Benning --- LSF --- Lawson Army Air Field (Fort Benning)
+
+Kingsville --- NQI --- Kingsville Naval Air Station
+
+Fort Riley --- FRI --- Marshall Army Air Field
+
+Harrisburg --- MDT --- Harrisburg International Airport
+
+Lincoln --- LNK --- Lincoln Airport
+
+Lansing --- LAN --- Capital City Airport
+
+Kamuela --- MUE --- Waimea Kohala Airport
+
+Massena --- MSS --- Massena International Richards Field
+
+Hickory --- HKY --- Hickory Regional Airport
+
+St. Petersburg --- SPG --- Albert Whitted Airport
+
+Fort Myers --- FMY --- Page Field
+
+Houston --- IAH --- George Bush Intercontinental Houston Airport
+
+Camp Springs --- ADW --- Joint Base Andrews
+
+Winston-salem --- INT --- Smith Reynolds Airport
+
+Victorville --- VCV --- Southern California Logistics Airport
+
+Crestview --- CEW --- Bob Sikes Airport
+
+Port Huron --- PHN --- St Clair County International Airport
+
+Bakersfield --- BFL --- Meadows Field
+
+El Paso --- ELP --- El Paso International Airport
+
+Harlingen --- HRL --- Valley International Airport
+
+Columbia --- CAE --- Columbia Metropolitan Airport
+
+Tucson --- DMA --- Davis Monthan Air Force Base
+
+Pensacola --- NPA --- Pensacola Naval Air Station/Forrest Sherman Field
+
+Pensacola --- PNS --- Pensacola Regional Airport
+
+Red River --- RDR --- Grand Forks Air Force Base
+
+Houston --- HOU --- William P Hobby Airport
+
+Buckley --- BFK --- Buckley Air Force Base
+
+Northway --- ORT --- Northway Airport
+
+Palmer --- PAQ --- Warren "Bud" Woods Palmer Municipal Airport
+
+Pittsburgh --- PIT --- Pittsburgh International Airport
+
+Barrow --- BRW --- Wiley Post Will Rogers Memorial Airport
+
+Houston --- EFD --- Ellington Airport
+
+Whidbey Island --- NUW --- Whidbey Island Naval Air Station (Ault Field)
+
+Alice --- ALI --- Alice International Airport
+
+Valdosta --- VAD --- Moody Air Force Base
+
+Miami --- MIA --- Miami International Airport
+
+Seattle --- SEA --- Seattle Tacoma International Airport
+
+Chattanooga --- CHA --- Lovell Field
+
+Stratford --- BDR --- Igor I Sikorsky Memorial Airport
+
+Jackson --- JAN --- Jackson-Medgar Wiley Evers International Airport
+
+Galveston --- GLS --- Scholes International At Galveston Airport
+
+Long Beach --- LGB --- Long Beach /Daugherty Field/ Airport
+
+Dillingham --- HDH --- Dillingham Airfield
+
+Williamsport --- IPT --- Williamsport Regional Airport
+
+Indianapolis --- IND --- Indianapolis International Airport
+
+Knobnoster --- SZL --- Whiteman Air Force Base
+
+Akron --- AKC --- Akron Fulton International Airport
+
+Greenwood --- GWO --- Greenwood–Leflore Airport
+
+White Plains --- HPN --- Westchester County Airport
+
+West Hampton Beach --- FOK --- Francis S Gabreski Airport
+
+Jonesboro --- JBR --- Jonesboro Municipal Airport
+
+Tonopah --- XSD --- Tonopah Test Range Airport
+
+West Palm Beach --- LNA --- Palm Beach County Park Airport
+
+San Diego --- NZY --- North Island Naval Air Station-Halsey Field
+
+El Paso --- BIF --- Biggs Army Air Field (Fort Bliss)
+
+Yuma --- YUM --- Yuma MCAS/Yuma International Airport
+
+Carlsbad --- CNM --- Cavern City Air Terminal
+
+Duluth --- DLH --- Duluth International Airport
+
+Bethel --- BET --- Bethel Airport
+
+Louisville --- LOU --- Bowman Field
+
+Fort Huachuca --- FHU --- Sierra Vista Municipal Libby Army Air Field
+
+Lihue --- LIH --- Lihue Airport
+
+Terre Haute --- HUF --- Terre Haute Regional Airport, Hulman Field
+
+Havre --- HVR --- Havre City County Airport
+
+Moses Lake --- MWH --- Grant County International Airport
+
+Montpelier --- MPV --- Edward F Knapp State Airport
+
+Richmond --- RIC --- Richmond International Airport
+
+Shreveport --- SHV --- Shreveport Regional Airport
+
+Cordova --- CDV --- Merle K (Mudhole) Smith Airport
+
+Norfolk --- ORF --- Norfolk International Airport
+
+Beaumont --- BPT --- Southeast Texas Regional Airport
+
+Savannah --- SAV --- Savannah Hilton Head International Airport
+
+Ogden --- HIF --- Hill Air Force Base
+
+Nome --- OME --- Nome Airport
+
+St. Petersburg --- PIE --- St Petersburg Clearwater International Airport
+
+Macon --- MNM --- Menominee Regional Airport
+
+Conroe --- CXO --- Conroe-North Houston Regional Airport
+
+Deadhorse --- SCC --- Deadhorse Airport
+
+San Antonio --- SAT --- San Antonio International Airport
+
+Rochester --- ROC --- Greater Rochester International Airport
+
+Coco Beach --- COF --- Patrick Air Force Base
+
+Teterboro --- TEB --- Teterboro Airport
+
+Rapid City --- RCA --- Ellsworth Air Force Base
+
+Raleigh --- RDU --- Raleigh Durham International Airport
+
+Dayton --- DAY --- James M Cox Dayton International Airport
+
+Kenai --- ENA --- Kenai Municipal Airport
+
+Mcalester --- MLC --- Mc Alester Regional Airport
+
+Niagara Falls --- IAG --- Niagara Falls International Airport
+
+Bryan --- CFD --- Coulter Field
+
+Wright --- LIY --- Wright AAF (Fort Stewart)/Midcoast Regional Airport
+
+Newport News --- PHF --- Newport News Williamsburg International Airport
+
+Alexandria --- ESF --- Esler Regional Airport
+
+Altus --- LTS --- Altus Air Force Base
+
+Tucson --- TUS --- Tucson International Airport
+
+Minot --- MIB --- Minot Air Force Base
+
+Marysville --- BAB --- Beale Air Force Base
+
+Kankakee --- IKK --- Greater Kankakee Airport
+
+Goldsboro --- GSB --- Seymour Johnson Air Force Base
+
+Providence --- PVD --- Theodore Francis Green State Airport
+
+Salisbury --- SBY --- Salisbury Ocean City Wicomico Regional Airport
+
+Burbank --- BUR --- Bob Hope Airport
+
+Detroit --- DTW --- Detroit Metropolitan Wayne County Airport
+
+Tampa --- TPA --- Tampa International Airport
+
+Pembina --- PMB --- Pembina Municipal Airport
+
+Fort Polk --- POE --- Polk Army Air Field
+
+Fairbanks --- EIL --- Eielson Air Force Base
+
+Hibbing --- HIB --- Range Regional Airport
+
+Lufkin --- LFK --- Angelina County Airport
+
+Midland --- MAF --- Midland International Airport
+
+Green Bay --- GRB --- Austin Straubel International Airport
+
+Ardmore --- ADM --- Ardmore Municipal Airport
+
+Wrightstown --- WRI --- Mc Guire Air Force Base
+
+Bush Field --- AGS --- Augusta Regional At Bush Field
+
+Williston --- ISN --- Sloulin Field International Airport
+
+Little Rock --- LIT --- Bill & Hillary Clinton National Airport/Adams Field
+
+Newburgh --- SWF --- Stewart International Airport
+
+Baudette --- BDE --- Baudette International Airport
+
+Sacramento --- SAC --- Sacramento Executive Airport
+
+Homer --- HOM --- Homer Airport
+
+Fort Leonardwood --- TBN --- Waynesville-St. Robert Regional Forney field
+
+Marietta --- MGE --- Dobbins Air Reserve Base
+
+Spokane --- SKA --- Fairchild Air Force Base
+
+Houghton Lake --- HTL --- Roscommon County - Blodgett Memorial Airport
+
+Panama City --- PAM --- Tyndall Air Force Base
+
+Dallas --- DFW --- Dallas Fort Worth International Airport
+
+Melbourne --- MLB --- Melbourne International Airport
+
+Tacoma --- TCM --- McChord Air Force Base
+
+Austin --- AUS --- Austin Bergstrom International Airport
+
+Columbus --- LCK --- Rickenbacker International Airport
+
+Gwinn --- MQT --- Sawyer International Airport
+
+Knoxville --- TYS --- McGhee Tyson Airport
+
+Fort Hood --- HLR --- Hood Army Air Field
+
+St. Louis --- STL --- St Louis Lambert International Airport
+
+Millville --- MIV --- Millville Municipal Airport
+
+Wichita Falls --- SPS --- Sheppard Air Force Base-Wichita Falls Municipal Airport
+
+Cincinnati --- LUK --- Cincinnati Municipal Airport Lunken Field
+
+Atlanta --- ATL --- Hartsfield Jackson Atlanta International Airport
+
+Merced --- MER --- Castle Airport
+
+Sacramento --- MCC --- Mc Clellan Airfield
+
+Grand Rapids --- GRR --- Gerald R. Ford International Airport
+
+Wink --- INK --- Winkler County Airport
+
+Fresno --- FAT --- Fresno Yosemite International Airport
+
+Vero Beach --- VRB --- Vero Beach Regional Airport
+
+Imperial --- IPL --- Imperial County Airport
+
+Nashville --- BNA --- Nashville International Airport
+
+Laredo --- LRD --- Laredo International Airport
+
+Anchorage --- EDF --- Elmendorf Air Force Base
+
+Kotzebue --- OTZ --- Ralph Wien Memorial Airport
+
+Altoona --- AOO --- Altoona Blair County Airport
+
+Abilene --- DYS --- Dyess Air Force Base
+
+El Dorado --- ELD --- South Arkansas Regional At Goodwin Field
+
+New York --- LGA --- La Guardia Airport
+
+Tallahassee --- TLH --- Tallahassee Regional Airport
+
+West Chicago --- DPA --- Dupage Airport
+
+Waco --- ACT --- Waco Regional Airport
+
+Augusta --- AUG --- Augusta State Airport
+
+Jackson --- MKL --- McKellar-Sipes Regional Airport
+
+Molokai --- MKK --- Molokai Airport
+
+Fort Knox --- FTK --- Godman Army Air Field
+
+San Angelo --- SJT --- San Angelo Regional Mathis Field
+
+Chico --- CIC --- Chico Municipal Airport
+
+Burlington --- BTV --- Burlington International Airport
+
+Jacksonville --- JAX --- Jacksonville International Airport
+
+Durango --- DRO --- Durango La Plata County Airport
+
+Washington --- IAD --- Washington Dulles International Airport
+
+College Station --- CLL --- Easterwood Field
+
+Spokane --- SFF --- Felts Field
+
+Milwaukee --- MKE --- General Mitchell International Airport
+
+Abilene --- ABI --- Abilene Regional Airport
+
+Columbia --- COU --- Columbia Regional Airport
+
+Portland --- PDX --- Portland International Airport
+
+Miami --- TNT --- Dade Collier Training and Transition Airport
+
+West Palm Beach --- PBI --- Palm Beach International Airport
+
+Fort Worth --- FTW --- Fort Worth Meacham International Airport
+
+Ogdensburg --- OGS --- Ogdensburg International Airport
+
+Falmouth --- FMH --- Cape Cod Coast Guard Air Station
+
+Seattle --- BFI --- Boeing Field King County International Airport
+
+San Antonio --- SKF --- Lackland Air Force Base
+
+Honolulu --- HNL --- Daniel K Inouye International Airport
+
+Des Moines --- DSM --- Des Moines International Airport
+
+New Bern --- EWN --- Coastal Carolina Regional Airport
+
+San Diego --- SAN --- San Diego International Airport
+
+Monroe --- MLU --- Monroe Regional Airport
+
+Sumter --- SSC --- Shaw Air Force Base
+
+Ontario --- ONT --- Ontario International Airport
+
+Greenvile --- GVT --- Majors Airport
+
+Roswell --- ROW --- Roswell International Air Center Airport
+
+Detroit --- DET --- Coleman A. Young Municipal Airport
+
+Brownsville --- BRO --- Brownsville South Padre Island International Airport
+
+Dothan --- DHN --- Dothan Regional Airport
+
+Wildwood --- WWD --- Cape May County Airport
+
+Fallon --- NFL --- Fallon Naval Air Station
+
+Mount Clemens --- MTC --- Selfridge Air National Guard Base Airport
+
+Farmington --- FMN --- Four Corners Regional Airport
+
+Corpus Christi --- CRP --- Corpus Christi International Airport
+
+Syracuse --- SYR --- Syracuse Hancock International Airport
+
+Key West --- NQX --- Naval Air Station Key West/Boca Chica Field
+
+Chicago --- MDW --- Chicago Midway International Airport
+
+San Jose --- SJC --- Norman Y. Mineta San Jose International Airport
+
+Hobbs --- HOB --- Lea County Regional Airport
+
+Philadelphia --- PNE --- Northeast Philadelphia Airport
+
+Denver --- DEN --- Denver International Airport
+
+Philadelphia --- PHL --- Philadelphia International Airport
+
+Sioux City --- SUX --- Sioux Gateway Col. Bud Day Field
+
+Macon --- MCN --- Middle Georgia Regional Airport
+
+Truth Or Consequences --- TCS --- Truth Or Consequences Municipal Airport
+
+Palmdale --- PMD --- Palmdale Regional/USAF Plant 42 Airport
+
+San Antonio --- RND --- Randolph Air Force Base
+
+El Centro --- NJK --- El Centro NAF Airport (Vraciu Field)
+
+Columbus --- CMH --- John Glenn Columbus International Airport
+
+Fayetteville --- FYV --- Drake Field
+
+Fort Sill --- FSI --- Henry Post Army Air Field (Fort Sill)
+
+Dayton --- FFO --- Wright-Patterson Air Force Base
+
+Galena --- GAL --- Edward G. Pitka Sr Airport
+
+Wichita --- IAB --- Mc Connell Air Force Base
+
+New Orleans --- NBG --- New Orleans NAS JRB/Alvin Callender Field
+
+Texarkana --- TXK --- Texarkana Regional Webb Field
+
+Plattsburgh --- PBG --- Plattsburgh International Airport
+
+Aberdeen --- APG --- Phillips Army Air Field
+
+Tucumcari --- TCC --- Tucumcari Municipal Airport
+
+Anchorage --- ANC --- Ted Stevens Anchorage International Airport
+
+Killeen --- GRK --- Robert Gray  Army Air Field Airport
+
+Bellingham --- BLI --- Bellingham International Airport
+
+Millington --- NQA --- Millington-Memphis Airport
+
+Elkins --- EKN --- Elkins-Randolph Co-Jennings Randolph Field
+
+Hartford --- HFD --- Hartford Brainard Airport
+
+Mobile --- MOB --- Mobile Regional Airport
+
+Mountain View --- NUQ --- Moffett Federal Airfield
+
+Santa Fe --- SAF --- Santa Fe Municipal Airport
+
+Barking Sands --- BKH --- Barking Sands Airport
+
+Deridder --- DRI --- Beauregard Regional Airport
+
+Bradshaw Field --- BSF --- Bradshaw Army Airfield
+
+Nogales --- OLS --- Nogales International Airport
+
+Tampa --- MCF --- Mac Dill Air Force Base
+
+Belleville --- BLV --- Scott AFB/Midamerica Airport
+
+Miami --- OPF --- Opa-locka Executive Airport
+
+Del Rio --- DRT --- Del Rio International Airport
+
+Fort Myers --- RSW --- Southwest Florida International Airport
+
+King Salmon --- AKN --- King Salmon Airport
+
+Muir --- MUI --- Muir Army Air Field (Fort Indiantown Gap) Airport
+
+Lahania-kapalua --- JHM --- Kapalua Airport
+
+New York --- JFK --- John F Kennedy International Airport
+
+Homestead --- HST --- Homestead ARB Airport
+
+Riverside --- RAL --- Riverside Municipal Airport
+
+Fort Leavenworth --- FLV --- Sherman Army Air Field
+
+Wallops Island --- WAL --- Wallops Flight Facility Airport
+
+Alamogordo --- HMN --- Holloman Air Force Base
+
+Willow Grove --- NXX --- Willow Grove Naval Air Station/Joint Reserve Base
+
+Cheyenne --- CYS --- Cheyenne Regional Jerry Olson Field
+
+Stockton --- SCK --- Stockton Metropolitan Airport
+
+Charleston --- CHS --- Charleston Air Force Base-International Airport
+
+Reno --- RNO --- Reno Tahoe International Airport
+
+Ketchikan --- KTN --- Ketchikan International Airport
+
+Detroit --- YIP --- Willow Run Airport
+
+Lompoc --- VBG --- Vandenberg Air Force Base
+
+Birmingham --- BHM --- Birmingham-Shuttlesworth International Airport
+
+Lakehurst --- NEL --- Lakehurst Maxfield Field Airport
+
+Shemya --- SYA --- Eareckson Air Station
+
+Las Vegas --- LSV --- Nellis Air Force Base
+
+Riverside --- RIV --- March ARB Airport
+
+Modesto --- MOD --- Modesto City Co-Harry Sham Field
+
+Sacramento --- SMF --- Sacramento International Airport
+
+Chicago --- UGN --- Waukegan National Airport
+
+Colorado Springs --- COS --- City of Colorado Springs Municipal Airport
+
+Buffalo --- BUF --- Buffalo Niagara International Airport
+
+Sandusky --- SKY --- Griffing Sandusky Airport
+
+Everett --- PAE --- Snohomish County (Paine Field) Airport
+
+Mountain Home --- MUO --- Mountain Home Air Force Base
+
+Cedar City --- CDC --- Cedar City Regional Airport
+
+Windsor Locks --- BDL --- Bradley International Airport
+
+Mcallen --- MFE --- Mc Allen Miller International Airport
+
+Norfolk --- NGU --- Norfolk Naval Station (Chambers Field)
+
+Chicopee Falls --- CEF --- Westover ARB/Metropolitan Airport
+
+Lubbock --- LBB --- Lubbock Preston Smith International Airport
+
+Chicago --- ORD --- Chicago O'Hare International Airport
+
+Boca Raton --- BCT --- Boca Raton Airport
+
+Fairbanks --- FAI --- Fairbanks International Airport
+
+Kaneohe Bay --- NGF --- Kaneohe Bay MCAS (Marion E. Carl Field) Airport
+
+Omaha --- OFF --- Offutt Air Force Base
+
+Gulkana --- GKN --- Gulkana Airport
+
+Watertown --- ART --- Watertown International Airport
+
+Palm Springs --- PSP --- Palm Springs International Airport
+
+Fort Dodge --- FOD --- Fort Dodge Regional Airport
+
+Shreveport --- BAD --- Barksdale Air Force Base
+
+Topeka --- FOE --- Topeka Regional Airport - Forbes Field
+
+Cotulla --- COT --- Cotulla-La Salle County Airport
+
+Wilmington --- ILM --- Wilmington International Airport
+
+Baton Rouge --- BTR --- Baton Rouge Metropolitan Airport
+
+Tyler --- TYR --- Tyler Pounds Regional Airport
+
+Hobart --- HBR --- Hobart Regional Airport
+
+Lanai --- LNY --- Lanai Airport
+
+Alexandria --- AEX --- Alexandria International Airport
+
+White Sands --- WSD --- Condron Army Air Field
+
+Cold Bay --- CDB --- Cold Bay Airport
+
+Tulsa --- TUL --- Tulsa International Airport
+
+Islip --- ISP --- Long Island Mac Arthur Airport
+
+Minneapolis --- MSP --- Minneapolis-St Paul International/Wold-Chamberlain Airport
+
+Wilmington --- ILG --- New Castle Airport
+
+Unalaska --- DUT --- Unalaska Airport
+
+New Orleans --- MSY --- Louis Armstrong New Orleans International Airport
+
+Portland --- PWM --- Portland International Jetport Airport
+
+Oklahoma City --- OKC --- Will Rogers World Airport
+
+Albany --- ALB --- Albany International Airport
+
+Valdez --- VDZ --- Valdez Pioneer Field
+
+Hampton --- LFI --- Langley Air Force Base
+
+Santa Ana --- SNA --- John Wayne Airport-Orange County Airport
+
+Colombus --- CBM --- Columbus Air Force Base
+
+Kendall-tamiami --- TMB --- Kendall-Tamiami Executive Airport
+
+Oceana --- NTU --- Oceana Naval Air Station
+
+Peru --- GUS --- Grissom Air Reserve Base
+
+Casper --- CPR --- Casper-Natrona County International Airport
+
+Valparaiso --- VPS --- Destin-Ft Walton Beach Airport
+
+Selma --- SEM --- Craig Field
+
+Key West --- EYW --- Key West International Airport
+
+Charlotte --- CLT --- Charlotte Douglas International Airport
+
+Las Vegas --- LAS --- McCarran International Airport
+
+Orlando --- MCO --- Orlando International Airport
+
+Florence --- FLO --- Florence Regional Airport
+
+Great Falls --- GTF --- Great Falls International Airport
+
+Youngstown --- YNG --- Youngstown Warren Regional Airport
+
+Fort Wainwright --- FBK --- Ladd AAF Airfield
+
+Mackminnville --- \N --- Mc Minnville Municipal Airport
+
+Macon --- WRB --- Robins Air Force Base
+
+Pullman --- PUW --- Pullman Moscow Regional Airport
+
+Lewiston --- LWS --- Lewiston Nez Perce County Airport
+
+Elmira --- ELM --- Elmira Corning Regional Airport
+
+Ithaca --- ITH --- Ithaca Tompkins Regional Airport
+
+Monterey --- MRY --- Monterey Peninsula Airport
+
+Santa Barbara --- SBA --- Santa Barbara Municipal Airport
+
+Daytona Beach --- DAB --- Daytona Beach International Airport
+
+New York --- JRB --- Downtown-Manhattan/Wall St Heliport
+
+Talkeetna --- TKA --- Talkeetna Airport
+
+New Haven --- HVN --- Tweed New Haven Airport
+
+Asheville --- AVL --- Asheville Regional Airport
+
+Greensboro --- GSO --- Piedmont Triad International Airport
+
+Sioux Falls --- FSD --- Joe Foss Field Airport
+
+Manchester --- MHT --- Manchester-Boston Regional Airport
+
+Naples --- APF --- Naples Municipal Airport
+
+Louisville --- SDF --- Louisville International Standiford Field
+
+Charlottesville --- CHO --- Charlottesville Albemarle Airport
+
+Roanoke --- ROA --- Roanoke Blacksburg Regional Airport
+
+Lexington --- LEX --- Blue Grass Airport
+
+Evansville --- EVV --- Evansville Regional Airport
+
+Albuquerque --- ABQ --- Albuquerque International Sunport
+
+Bozeman --- BZN --- Gallatin Field
+
+Billings --- BIL --- Billings Logan International Airport
+
+Butte --- BTM --- Bert Mooney Airport
+
+Traverse City --- TVC --- Cherry Capital Airport
+
+Bar Harbor --- BHB --- Hancock County-Bar Harbor Airport
+
+Rockland --- RKD --- Knox County Regional Airport
+
+Jacksn Hole --- JAC --- Jackson Hole Airport
+
+Rockford --- RFD --- Chicago Rockford International Airport
+
+Greenville --- GSP --- Greenville Spartanburg International Airport
+
+Bloomington --- BMI --- Central Illinois Regional Airport at Bloomington-Normal
+
+Gulfport --- GPT --- Gulfport Biloxi International Airport
+
+Kalamazoo --- AZO --- Kalamazoo Battle Creek International Airport
+
+Toledo --- TOL --- Toledo Express Airport
+
+Fort Wayne --- FWA --- Fort Wayne International Airport
+
+Decatur --- DEC --- Decatur Airport
+
+Cedar Rapids --- CID --- The Eastern Iowa Airport
+
+La Crosse --- LSE --- La Crosse Municipal Airport
+
+Wassau --- CWA --- Central Wisconsin Airport
+
+Peoria --- PIA --- General Wayne A. Downing Peoria International Airport
+
+Appleton --- ATW --- Appleton International Airport
+
+Rochester --- RST --- Rochester International Airport
+
+Champaign --- CMI --- University of Illinois Willard Airport
+
+Manhattan --- MHK --- Manhattan Regional Airport
+
+Franklin --- FKL --- Venango Regional Airport
+
+Grand Junction --- GJT --- Grand Junction Regional Airport
+
+Saint George --- SGU --- St George Municipal Airport
+
+Houston --- DWH --- David Wayne Hooks Memorial Airport
+
+Sarasota --- SRQ --- Sarasota Bradenton International Airport
+
+Van Nuys --- VNY --- Van Nuys Airport
+
+Panama City --- PFN --- Panama City-Bay Co International Airport
+
+Bismarck --- BIS --- Bismarck Municipal Airport
+
+Telluride --- TEX --- Telluride Regional Airport
+
+Rapid City --- RAP --- Rapid City Regional Airport
+
+Carlsbad --- CLD --- Mc Clellan-Palomar Airport
+
+Flint --- FNT --- Bishop International Airport
+
+Redding --- RDD --- Redding Municipal Airport
+
+Idaho Falls --- IDA --- Idaho Falls Regional Airport
+
+Medford --- MFR --- Rogue Valley International Medford Airport
+
+Redmond-Bend --- RDM --- Roberts Field
+
+Akron --- CAK --- Akron Canton Regional Airport
+
+Huntsville --- HSV --- Huntsville International Carl T Jones Field
+
+Parkersburg --- PKB --- Mid Ohio Valley Regional Airport
+
+Montgomery --- MGM --- Montgomery Regional (Dannelly Field) Airport
+
+Bristol --- TRI --- Tri-Cities Regional TN/VA Airport
+
+Paducah --- PAH --- Barkley Regional Airport
+
+Page --- PGA --- Page Municipal Airport
+
+Kalispell --- FCA --- Glacier Park International Airport
+
+Saginaw --- MBS --- MBS International Airport
+
+Binghamton --- BGM --- Greater Binghamton/Edwin A Link field
+
+Blythe --- BLH --- Blythe Airport
+
+Petersburg --- PSG --- Petersburg James A Johnson Airport
+
+Sanford --- SFB --- Orlando Sanford International Airport
+
+Johnstown --- JST --- John Murtha Johnstown Cambria County Airport
+
+Missoula --- MSO --- Missoula International Airport
+
+Grand Canyon --- GCN --- Grand Canyon National Park Airport
+
+Sugar Land --- SGR --- Sugar Land Regional Airport
+
+Denver --- APA --- Centennial Airport
+
+Clovis --- CVN --- Clovis Municipal Airport
+
+Fort Stockton --- FST --- Fort Stockton Pecos County Airport
+
+Las Vegas --- LVS --- Las Vegas Municipal Airport
+
+Houston --- IWS --- West Houston Airport
+
+Las Cruces --- LRU --- Las Cruces International Airport
+
+Breckenridge --- BKD --- Stephens County Airport
+
+Temple --- TPL --- Draughon Miller Central Texas Regional Airport
+
+Ozona --- OZA --- Ozona Municipal Airport
+
+Vail --- EGE --- Eagle County Regional Airport
+
+Richmond Heights --- CGF --- Cuyahoga County Airport
+
+Mansfield --- MFD --- Mansfield Lahm Regional Airport
+
+Columbus --- CSG --- Columbus Metropolitan Airport
+
+Lawton --- LAW --- Lawton Fort Sill Regional Airport
+
+Fort Collins --- FNL --- Northern Colorado Regional Airport
+
+Flagstaff --- FLG --- Flagstaff Pulliam Airport
+
+South Lake Tahoe --- TVL --- Lake Tahoe Airport
+
+Twin Falls --- TWF --- Joslin Field Magic Valley Regional Airport
+
+Vineyard Haven --- MVY --- Martha's Vineyard Airport
+
+Concord --- CON --- Concord Municipal Airport
+
+Groton --- GON --- Groton New London Airport
+
+Saint Cloud --- STC --- St Cloud Regional Airport
+
+Columbus --- GTR --- Golden Triangle Regional Airport
+
+Hoquiam --- HQM --- Bowerman Airport
+
+Erie --- ERI --- Erie International Tom Ridge Field
+
+Barnstable --- HYA --- Barnstable Municipal Boardman Polando Field
+
+Sedona --- SDX --- Sedona Airport
+
+Morgantown --- MGW --- Morgantown Municipal Walter L. Bill Hart Field
+
+Charleston --- CRW --- Yeager Airport
+
+Scranton --- AVP --- Wilkes Barre Scranton International Airport
+
+Bemidji --- BJI --- Bemidji Regional Airport
+
+Fargo --- FAR --- Hector International Airport
+
+Kansas City --- MKC --- Charles B. Wheeler Downtown Airport
+
+Gillette --- GCC --- Gillette Campbell County Airport
+
+Santa Ana --- NZJ --- El Toro Marine Corps Air Station
+
+State College --- SCE --- University Park Airport
+
+Meridian --- MEI --- Key Field
+
+Springfield --- SPI --- Abraham Lincoln Capital Airport
+
+Cortez --- CEZ --- Cortez Municipal Airport
+
+Hayden --- HDN --- Yampa Valley Airport
+
+Gallup --- GUP --- Gallup Municipal Airport
+
+Liberal --- LBL --- Liberal Mid-America Regional Airport
+
+Lamar --- LAA --- Lamar Municipal Airport
+
+Goodland --- GLD --- Renner Field-Goodland Municipal Airport
+
+Cody --- COD --- Yellowstone Regional Airport
+
+Springfield --- SGF --- Springfield Branson National Airport
+
+Joplin --- JLN --- Joplin Regional Airport
+
+Allentown --- ABE --- Lehigh Valley International Airport
+
+Bentonville --- XNA --- Northwest Arkansas Regional Airport
+
+South Bend --- SBN --- South Bend Regional Airport
+
+Fort Wayne --- SMD --- Smith Field
+
+Arcata --- ACV --- California Redwood Coast-Humboldt County Airport
+
+Jacksonville --- OAJ --- Albert J Ellis Airport
+
+Tuscaloosa --- TCL --- Tuscaloosa Regional Airport
+
+Dubuque --- DBQ --- Dubuque Regional Airport
+
+Aberdeen --- ABR --- Aberdeen Regional Airport
+
+Albany --- ABY --- Southwest Georgia Regional Airport
+
+Athens --- AHN --- Athens Ben Epps Airport
+
+Alamogordo --- ALM --- Alamogordo White Sands Regional Airport
+
+Waterloo --- ALO --- Waterloo Regional Airport
+
+Walla Walla --- ALW --- Walla Walla Regional Airport
+
+Alpena --- APN --- Alpena County Regional Airport
+
+Watertown --- ATY --- Watertown Regional Airport
+
+Bradford --- BFD --- Bradford Regional Airport
+
+Scottsbluff --- BFF --- Western Neb. Rgnl/William B. Heilig Airport
+
+Beckley --- BKW --- Raleigh County Memorial Airport
+
+Brunswick --- BQK --- Brunswick Golden Isles Airport
+
+Burlington --- BRL --- Southeast Iowa Regional Airport
+
+Crescent City --- CEC --- Jack Mc Namara Field Airport
+
+Cape Girardeau --- CGI --- Cape Girardeau Regional Airport
+
+Sault Ste Marie --- CIU --- Chippewa County International Airport
+
+Clarksburg --- CKB --- North Central West Virginia Airport
+
+Port Angeles --- CLM --- William R Fairchild International Airport
+
+Hancock --- CMX --- Houghton County Memorial Airport
+
+Dodge City --- DDC --- Dodge City Regional Airport
+
+Du Bois --- DUJ --- DuBois Regional Airport
+
+Eau Claire --- EAU --- Chippewa Valley Regional Airport
+
+Elko --- EKO --- Elko Regional Airport
+
+New Bedford --- EWB --- New Bedford Regional Airport
+
+Fayetteville --- FAY --- Fayetteville Regional Grannis Field
+
+Glasgow --- GGW --- Wokal Field Glasgow International Airport
+
+Grand Island --- GRI --- Central Nebraska Regional Airport
+
+Hot Springs --- HOT --- Memorial Field
+
+Huntington --- HTS --- Tri-State/Milton J. Ferguson Field
+
+Kirksville --- IRK --- Kirksville Regional Airport
+
+Jamestown --- JMS --- Jamestown Regional Airport
+
+Laramie --- LAR --- Laramie Regional Airport
+
+Latrobe --- LBE --- Arnold Palmer Regional Airport
+
+North Platte --- LBF --- North Platte Regional Airport Lee Bird Field
+
+Lebanon --- LEB --- Lebanon Municipal Airport
+
+Klamath Falls --- LMT --- Crater Lake-Klamath Regional Airport
+
+Lancaster --- LNS --- Lancaster Airport
+
+Lewistown --- LWT --- Lewistown Municipal Airport
+
+Lynchburg --- LYH --- Lynchburg Regional Preston Glenn Field
+
+Muskegon --- MKG --- Muskegon County Airport
+
+Miles City --- MLS --- Frank Wiley Field
+
+Muscle Shoals --- MSL --- Northwest Alabama Regional Airport
+
+North Bend --- OTH --- Southwest Oregon Regional Airport
+
+Owensboro --- OWB --- Owensboro Daviess County Airport
+
+Hattiesburg/Laurel --- PIB --- Hattiesburg Laurel Regional Airport
+
+Pocatello --- PIH --- Pocatello Regional Airport
+
+Pierre --- PIR --- Pierre Regional Airport
+
+Pellston --- PLN --- Pellston Regional Airport of Emmet County Airport
+
+Portsmouth --- PSM --- Portsmouth International at Pease Airport
+
+Reading --- RDG --- Reading Regional Carl A Spaatz Field
+
+Rhinelander --- RHI --- Rhinelander Oneida County Airport
+
+Rock Springs --- RKS --- Southwest Wyoming Regional Airport
+
+Rutland --- RUT --- Rutland - Southern Vermont Regional Airport
+
+San Luis Obispo --- SBP --- San Luis County Regional Airport
+
+Sheridan --- SHR --- Sheridan County Airport
+
+Saranac Lake --- SLK --- Adirondack Regional Airport
+
+Salina --- SLN --- Salina Municipal Airport
+
+Santa Maria --- SMX --- Santa Maria Pub/Capt G Allan Hancock Field
+
+Tupelo --- TUP --- Tupelo Regional Airport
+
+Quincy --- UIN --- Quincy Regional Baldwin Field
+
+Victoria --- VCT --- Victoria Regional Airport
+
+Valdosta --- VLD --- Valdosta Regional Airport
+
+Worland --- WRL --- Worland Municipal Airport
+
+Yakima --- YKM --- Yakima Air Terminal McAllister Field
+
+Adak Island --- ADK --- Adak Airport
+
+Gustavus --- GST --- Gustavus Airport
+
+Skagway --- SGY --- Skagway Airport
+
+Holy Cross --- HCR --- Holy Cross Airport
+
+Haines --- HNS --- Haines Airport
+
+Kalskag --- KLG --- Kalskag Airport
+
+Mcgrath --- MCG --- McGrath Airport
+
+Mountain Village --- MOU --- Mountain Village Airport
+
+Aniak --- ANI --- Aniak Airport
+
+Chevak --- VAK --- Chevak Airport
+
+Wrangell --- WRG --- Wrangell Airport
+
+Molokai --- LUP --- Kalaupapa Airport
+
+Aleknagik --- WKK --- Aleknagik / New Airport
+
+Bluefield --- BLF --- Mercer County Airport
+
+Greenville --- GLH --- Mid Delta Regional Airport
+
+Pasco --- PSC --- Tri Cities Airport
+
+Akutan --- KQA --- Akutan Seaplane Base
+
+Lopez --- LPS --- Lopez Island Airport
+
+Waikoloa Village --- WKL --- Waikoloa Heliport
+
+Worcester --- ORH --- Worcester Regional Airport
+
+Bremerton --- PWT --- Bremerton National Airport
+
+Spencer --- SPW --- Spencer Municipal Airport
+
+Jefferson City --- JEF --- Jefferson City Memorial Airport
+
+Provincetown --- PVC --- Provincetown Municipal Airport
+
+Fullerton --- FUL --- Fullerton Municipal Airport
+
+Concord --- USA --- Concord-Padgett Regional Airport
+
+Hailey --- SUN --- Friedman Memorial Airport
+
+Mason City --- MCW --- Mason City Municipal Airport
+
+Mesa --- AZA --- Phoenix-Mesa-Gateway Airport
+
+Anaktuvuk Pass --- AKP --- Anaktuvuk Pass Airport
+
+Anvik --- ANV --- Anvik Airport
+
+Atqasuk --- ATK --- Atqasuk Edward Burnell Sr Memorial Airport
+
+Gambell --- GAM --- Gambell Airport
+
+Hooper Bay --- HPB --- Hooper Bay Airport
+
+Kaltag --- KAL --- Kaltag Airport
+
+St Mary's --- KSM --- St Mary's Airport
+
+Kivalina --- KVL --- Kivalina Airport
+
+Mekoryuk --- MYU --- Mekoryuk Airport
+
+Ruby --- RBY --- Ruby Airport
+
+Shishmaref --- SHH --- Shishmaref Airport
+
+Savoonga --- SVA --- Savoonga Airport
+
+Noatak --- WTK --- Noatak Airport
+
+Arctic Village --- ARC --- Arctic Village Airport
+
+Port Clarence --- KPC --- Port Clarence Coast Guard Station
+
+Hagerstown --- HGR --- Hagerstown Regional Richard A Henson Field
+
+Sand Point --- SDP --- Sand Point Airport
+
+Deering --- DRG --- Deering Airport
+
+Igiugig --- IGG --- Igiugig Airport
+
+New Stuyahok --- KNW --- New Stuyahok Airport
+
+King Cove --- KVC --- King Cove Airport
+
+Port Heiden --- PTH --- Port Heiden Airport
+
+Togiak Village --- TOG --- Togiak Airport
+
+Escanaba --- ESC --- Delta County Airport
+
+Yakutat --- YAK --- Yakutat Airport
+
+Marion --- MWA --- Williamson County Regional Airport
+
+Iron Mountain --- IMT --- Ford Airport
+
+Allakaket --- AET --- Allakaket Airport
+
+Michigan City --- MGC --- Michigan City Municipal Airport
+
+Seward --- SWD --- Seward Airport
+
+Grand Marais --- GRM --- Grand Marais Cook County Airport
+
+Wausau --- AUW --- Wausau Downtown Airport
+
+Muncie --- MIE --- Delaware County Johnson Field
+
+Lafayette --- LAF --- Purdue University Airport
+
+Las Vegas --- VGT --- North Las Vegas Airport
+
+Kenosha --- ENW --- Kenosha Regional Airport
+
+Montrose --- MTJ --- Montrose Regional Airport
+
+Riverton --- RIW --- Riverton Regional Airport
+
+Pendleton --- PDT --- Eastern Oregon Regional At Pendleton Airport
+
+Oshkosh --- OSH --- Wittman Regional Airport
+
+Wenatchee --- EAT --- Pangborn Memorial Airport
+
+Dallas --- FWH --- NAS Fort Worth JRB/Carswell Field
+
+Gary --- GYY --- Gary Chicago International Airport
+
+Brainerd --- BRD --- Brainerd Lakes Regional Airport
+
+Lewisburg --- LWB --- Greenbrier Valley Airport
+
+Greenville --- PGV --- Pitt Greenville Airport
+
+Chefornak --- CYF --- Chefornak Airport
+
+Oxnard --- OXR --- Oxnard Airport
+
+Branson --- BKG --- Branson Airport
+
+Scotia NY --- SCH --- Schenectady County Airport
+
+St. Augustine --- UST --- Northeast Florida Regional Airport
+
+Santa Rosa --- STS --- Charles M. Schulz Sonoma County Airport
+
+Kissimmee --- ISM --- Kissimmee Gateway Airport
+
+Lake City --- LCQ --- Lake City Gateway Airport
+
+Logan --- LGU --- Logan-Cache Airport
+
+Brigham City --- BMC --- Brigham City Regional Airport
+
+Aspen --- ASE --- Aspen-Pitkin Co/Sardy Field
+
+Kerrville --- ERV --- Kerrville Municipal Louis Schreiner Field
+
+Georgetown --- GED --- Sussex County Airport
+
+Great Bend --- GBD --- Great Bend Municipal Airport
+
+Hays --- HYS --- Hays Regional Airport
+
+Null --- SUS --- Spirit of St Louis Airport
+
+Ely --- LYU --- Ely Municipal Airport
+
+Grand Rapids --- GPZ --- Grand Rapids Itasca Co-Gordon Newstrom field
+
+Thief River Falls --- TVF --- Thief River Falls Regional Airport
+
+Eagle River --- EGV --- Eagle River Union Airport
+
+Minocqua --- ARV --- Lakeland-Noble F. Lee Memorial field
+
+Catalina Island --- AVX --- Catalina Airport
+
+Mojave --- MHV --- Mojave Airport
+
+Hutchinson --- HUT --- Hutchinson Municipal Airport
+
+Rosecrans --- STJ --- Rosecrans Memorial Airport
+
+Camp Douglas --- VOK --- Volk Field
+
+Gunnison --- GUC --- Gunnison Crested Butte Regional Airport
+
+Torrance --- TOA --- Zamperini Field
+
+Manistee --- MBL --- Manistee Co Blacker Airport
+
+Punta Gorda --- PGD --- Charlotte County Airport
+
+Frenchville --- WFK --- Northern Aroostook Regional Airport
+
+Jamestown --- JHW --- Chautauqua County-Jamestown Airport
+
+Somerset --- SME --- Lake Cumberland Regional Airport
+
+Weyers Cave --- SHD --- Shenandoah Valley Regional Airport
+
+Devils Lake --- DVL --- Devils Lake Regional Airport
+
+Dickinson --- DIK --- Dickinson Theodore Roosevelt Regional Airport
+
+Sidney --- SDY --- Sidney - Richland Regional Airport
+
+Chadron --- CDR --- Chadron Municipal Airport
+
+Alliance --- AIA --- Alliance Municipal Airport
+
+McCook --- MCK --- Mc Cook Ben Nelson Regional Airport
+
+Marathon --- MTH --- The Florida Keys Marathon Airport
+
+Glendive --- GDV --- Dawson Community Airport
+
+Wolf Point --- OLF --- L M Clayton Airport
+
+West Yellowstone --- WYS --- Yellowstone Airport
+
+Alamosa --- ALS --- San Luis Valley Regional Bergman Field
+
+Moab --- CNY --- Canyonlands Field
+
+Ely --- ELY --- Ely Airport Yelland Field
+
+Vernal --- VEL --- Vernal Regional Airport
+
+Ruidoso --- RUI --- Sierra Blanca Regional Airport
+
+Show Low --- SOW --- Show Low Regional Airport
+
+McCall --- MYL --- McCall Municipal Airport
+
+Salmon --- SMN --- Lemhi County Airport
+
+Mammoth Lakes --- MMH --- Mammoth Yosemite Airport
+
+Friday Harbor --- FRD --- Friday Harbor Airport
+
+Eastsound --- ESD --- Orcas Island Airport
+
+Astoria --- AST --- Astoria Regional Airport
+
+Newport --- ONP --- Newport Municipal Airport
+
+Emmonak --- EMK --- Emmonak Airport
+
+Unalakleet --- UNK --- Unalakleet Airport
+
+Kuparuk --- UUK --- Ugnu-Kuparuk Airport
+
+Shageluk --- SHX --- Shageluk Airport
+
+Chuathbaluk --- CHU --- Chuathbaluk Airport
+
+Nuiqsut --- NUI --- Nuiqsut Airport
+
+Eek --- EEK --- Eek Airport
+
+Kasigluk --- KUK --- Kasigluk Airport
+
+Kwethluk --- KWT --- Kwethluk Airport
+
+Kwigillingok --- KWK --- Kwigillingok Airport
+
+Marshall --- MLL --- Marshall Don Hunter Sr Airport
+
+Russian Mission --- RSH --- Russian Mission Airport
+
+Koliganek --- KGK --- Koliganek Airport
+
+Manokotak --- KMO --- Manokotak Airport
+
+Chalkyitsik --- CIK --- Chalkyitsik Airport
+
+Eagle --- EAA --- Eagle Airport
+
+Hughes --- HUS --- Hughes Airport
+
+Huslia --- HSL --- Huslia Airport
+
+Nulato --- NUL --- Nulato Airport
+
+Venetie --- VEE --- Venetie Airport
+
+Beaver --- WBQ --- Beaver Airport
+
+Central --- CEM --- Central Airport
+
+Shungnak --- SHG --- Shungnak Airport
+
+Inyokern --- IYK --- Inyokern Airport
+
+Visalia --- VIS --- Visalia Municipal Airport
+
+Merced --- MCE --- Merced Regional Macready Field
+
+Goodyear --- GYR --- Phoenix Goodyear Airport
+
+Angoon --- AGN --- Angoon Seaplane Base
+
+Elfin Cove --- ELV --- Elfin Cove Seaplane Base
+
+Funter Bay --- FNR --- Funter Bay Seaplane Base
+
+Hoonah --- HNH --- Hoonah Airport
+
+Metakatla --- MTM --- Metlakatla Seaplane Base
+
+Hydaburg --- HYG --- Hydaburg Seaplane Base
+
+Egegik --- EGX --- Egegik Airport
+
+Perryville --- KPV --- Perryville Airport
+
+Pilot Point --- PIP --- Pilot Point Airport
+
+South Naknek --- WSN --- South Naknek Nr 2 Airport
+
+Akhiok --- AKK --- Akhiok Airport
+
+Karluk --- KYK --- Karluk Airport
+
+Larsen Bay --- KLN --- Larsen Bay Airport
+
+Ambler --- ABL --- Ambler Airport
+
+Buckland --- BKC --- Buckland Airport
+
+Kiana --- IAN --- Bob Baker Memorial Airport
+
+Kobuk --- OBU --- Kobuk Airport
+
+Noorvik --- ORV --- Robert (Bob) Curtis Memorial Airport
+
+Selawik --- WLK --- Selawik Airport
+
+Brevig Mission --- KTS --- Brevig Mission Airport
+
+Elim --- ELI --- Elim Airport
+
+Golovin --- GLV --- Golovin Airport
+
+Teller --- TLA --- Teller Airport
+
+Wales --- WAA --- Wales Airport
+
+White Mountain --- WMO --- White Mountain Airport
+
+Koyuk --- KKA --- Koyuk Alfred Adams Airport
+
+St. Michael --- SMK --- St Michael Airport
+
+Shaktoolik --- SKK --- Shaktoolik Airport
+
+Tin City --- TNC --- Tin City Long Range Radar Station Airport
+
+Atka --- AKB --- Atka Airport
+
+Nikolski --- IKO --- Nikolski Air Station
+
+Yakataga --- CYT --- Yakataga Airport
+
+Alakanuk --- AUK --- Alakanuk Airport
+
+Kipnuk --- KPN --- Kipnuk Airport
+
+False Pass --- KFP --- False Pass Airport
+
+Nelson Lagoon --- NLG --- Nelson Lagoon Airport
+
+Cold Bay --- PML --- Port Moller Airport
+
+Klawock --- KLW --- Klawock Airport
+
+Quinhagak --- KWN --- Quinhagak Airport
+
+Kotlik --- KOT --- Kotlik Airport
+
+Koyukuk --- KYU --- Koyukuk Airport
+
+Scammon Bay --- SCM --- Scammon Bay Airport
+
+Nondalton --- NNL --- Nondalton Airport
+
+Kongiganak --- KKH --- Kongiganak Airport
+
+Nikolai --- NIB --- Nikolai Airport
+
+Akiak --- AKI --- Akiak Airport
+
+Wainwright --- AIN --- Wainwright Airport
+
+Chenega --- NCN --- Chenega Bay Airport
+
+Tok --- TKJ --- Tok Junction Airport
+
+Circle --- IRC --- Circle City /New/ Airport
+
+Sleetmute --- SLQ --- Sleetmute Airport
+
+Lake Minchumina --- LMA --- Minchumina Airport
+
+Manley Hot Springs --- MLY --- Manley Hot Springs Airport
+
+Martinsburg --- MRB --- Eastern WV Regional Airport/Shepherd Field
+
+Rock Hill --- RKH --- Rock Hill - York County Airport
+
+Pittsburgh --- AGC --- Allegheny County Airport
+
+Jacksonville --- VQQ --- Cecil Airport
+
+Atlanta --- FTY --- Fulton County Airport Brown Field
+
+Columbus --- OSU --- The Ohio State University Airport - Don Scott Field
+
+Addison --- ADS --- Addison Airport
+
+Destin --- DSI --- Destin Executive Airport
+
+Kinston --- ISO --- Kinston Regional Jetport At Stallings Field
+
+Kill Devil Hills --- FFA --- First Flight Airport
+
+Provo --- PVU --- Provo Municipal Airport
+
+Steamboat Springs --- SBS --- Steamboat Springs Bob Adams Field
+
+Delta --- DTA --- Delta Municipal Airport
+
+Price --- PUC --- Carbon County Regional/Buck Davis Field
+
+Los Alamos --- LAM --- Los Alamos Airport
+
+Lake Havasu City --- HII --- Lake Havasu City Airport
+
+Winslow --- INW --- Winslow Lindbergh Regional Airport
+
+Douglas --- DGL --- Douglas Municipal Airport
+
+Bartow --- BOW --- Bartow Municipal Airport
+
+Livermore --- LVK --- Livermore Municipal Airport
+
+Mariposa --- RMY --- Mariposa Yosemite Airport
+
+Palm Springs --- TRM --- Jacqueline Cochran Regional Airport
+
+Santa Monica --- SMO --- Santa Monica Municipal Airport
+
+Palm Springs --- UDD --- Bermuda Dunes Airport
+
+Scottsdale --- SCF --- Scottsdale Airport
+
+Olympia --- OLM --- Olympia Regional Airport
+
+Rifle --- RIL --- Garfield County Regional Airport
+
+Saratoga --- SAA --- Shively Field
+
+Atlanta --- PDK --- DeKalb Peachtree Airport
+
+Bloomington --- BMG --- Monroe County Airport
+
+Stuart --- SUA --- Witham Field
+
+Morristown --- MMU --- Morristown Municipal Airport
+
+Napa --- APC --- Napa County Airport
+
+San Diego --- SDM --- Brown Field Municipal Airport
+
+Venice --- VNC --- Venice Municipal Airport
+
+Pahokee --- PHK --- Palm Beach County Glades Airport
+
+Panama City --- ECP --- Northwest Florida Beaches International Airport
+
+San Bernardino --- SBD --- San Bernardino International Airport
+
+San Carlos --- SQL --- San Carlos Airport
+
+Rocky Mount --- RWI --- Rocky Mount Wilson Regional Airport
+
+Soldotna --- SXQ --- Soldotna Airport
+
+El Cajon --- SEE --- Gillespie Field
+
+Truckee --- TKF --- Truckee Tahoe Airport
+
+Livingston --- LVM --- Mission Field
+
+Monument Valley --- GMV --- Monument Valley Airport
+
+New York --- JRA --- West 30th St. Heliport
+
+Lakeland --- LAL --- Lakeland Linder International Airport
+
+Murrieta-Temecula --- RBK --- French Valley Airport
+
+Dayton --- MGY --- Dayton-Wright Brothers Airport
+
+Findley --- FDY --- Findlay Airport
+
+Spearfish --- SPF --- Black Hills Airport-Clyde Ice Field
+
+Olive Branch --- OLV --- Olive Branch Airport
+
+Broomfield --- BJC --- Rocky Mountain Metropolitan Airport
+
+Salem --- SLE --- Salem Municipal Airport/McNary Field
+
+Tunica --- UTM --- Tunica Municipal Airport
+
+Milwaukee --- MWC --- Lawrence J Timmerman Airport
+
+Janesville --- JVL --- Southern Wisconsin Regional Airport
+
+Lawrenceville --- LZU --- Gwinnett County Briscoe Field
+
+Bowling Green --- BWG --- Bowling Green Warren County Regional Airport
+
+Tulsa --- RVS --- Richard Lloyd Jones Jr Airport
+
+Bryce Canyon --- BCE --- Bryce Canyon Airport
+
+Olathe --- JCI --- New Century Aircenter Airport
+
+Easton --- ESN --- Easton Newnam Field
+
+Yuba City --- MYV --- Yuba County Airport
+
+Duncan --- DUC --- Halliburton Field
+
+Uvalde --- UVA --- Garner Field
+
+Lockport --- LOT --- Lewis University Airport
+
+Concord --- CCR --- Buchanan Field
+
+Key Largo --- OCA --- Ocean Reef Club Airport
+
+Athens --- ATO --- Ohio University Snyder Field
+
+Springfield --- SGH --- Springfield-Beckley Municipal Airport
+
+Topeka --- TOP --- Philip Billard Municipal Airport
+
+Smyrna --- MQY --- Smyrna Airport
+
+Sewanee --- UOS --- Franklin County Airport
+
+Chicago-Wheeling --- PWK --- Chicago Executive Airport
+
+Kelso --- KLS --- Southwest Washington Regional Airport
+
+Wilmington --- ILN --- Wilmington Airpark
+
+Tucson --- AVW --- Marana Regional Airport
+
+Casa Grande --- CGZ --- Casa Grande Municipal Airport
+
+Buckeye --- BXK --- Buckeye Municipal Airport
+
+Athens --- MMI --- McMinn County Airport
+
+Sterling --- STK --- Sterling Municipal Airport
+
+Rawlins --- RWL --- Rawlins Municipal Airport/Harvey Field
+
+Caldwell --- CDW --- Essex County Airport
+
+Kaiser Lake Ozark --- AIZ --- Lee C Fine Memorial Airport
+
+Thomasville --- TVI --- Thomasville Regional Airport
+
+Henderson --- HSH --- Henderson Executive Airport
+
+Tifton --- TMA --- Henry Tift Myers Airport
+
+Phoenix  --- DVT --- Phoenix Deer Valley Airport
+
+Farmingdale --- FRG --- Republic Airport
+
+McKinley Park --- MCL --- McKinley National Park Airport
+
+Prospect Creek --- PPC --- Prospect Creek Airport
+
+Wheeling --- HLG --- Wheeling Ohio County Airport
+
+Rockport --- RKP --- Aransas County Airport
+
+Troutdale --- TTD --- Portland Troutdale Airport
+
+Hillsboro --- HIO --- Portland Hillsboro Airport
+
+Burns --- BNO --- Burns Municipal Airport
+
+Prineville --- PRZ --- Prineville Airport
+
+Red Bluff --- RBL --- Red Bluff Municipal Airport
+
+Novato --- NOT --- Marin County Airport - Gnoss Field
+
+Lakeview --- LKV --- Lake County Airport
+
+Tillamook --- OTK --- Tillamook Airport
+
+Ontario --- ONO --- Ontario Municipal Airport
+
+The Dalles --- DLS --- Columbia Gorge Regional the Dalles Municipal Airport
+
+Gaithersburg --- GAI --- Montgomery County Airpark
+
+Morrisville --- MVL --- Morrisville Stowe State Airport
+
+Dallas --- RBD --- Dallas Executive Airport
+
+Westerly --- WST --- Westerly State Airport
+
+Block Island --- BID --- Block Island State Airport
+
+Nightmute --- NME --- Nightmute Airport
+
+Toksook Bay --- OOK --- Toksook Bay Airport
+
+Bainbridge --- BGE --- Decatur County Industrial Air Park
+
+Los Angeles --- WHP --- Whiteman Airport
+
+Madera --- MAE --- Madera Municipal Airport
+
+Apalachicola --- AAF --- Apalachicola Regional Airport
+
+Fort Pierce --- FPR --- St Lucie County International Airport
+
+Plymouth --- PYM --- Plymouth Municipal Airport
+
+North Kingstown --- NCO --- Quonset State Airport
+
+Norwood --- OWD --- Norwood Memorial Airport
+
+Westfield --- BAF --- Westfield-Barnes Regional Airport
+
+Montgomery --- MGJ --- Orange County Airport
+
+Harrisburg --- HAR --- Capital City Airport
+
+Danbury --- DXR --- Danbury Municipal Airport
+
+Nashua --- ASH --- Boire Field
+
+Lawrence --- LWM --- Lawrence Municipal Airport
+
+Oxford --- OXC --- Waterbury Oxford Airport
+
+Rome --- RMG --- Richard B Russell Airport
+
+Gadsden --- GAD --- Northeast Alabama Regional Airport
+
+Winder --- WDR --- Barrow County Airport
+
+Dalton --- DNN --- Dalton Municipal Airport
+
+LaGrange --- LGC --- LaGrange Callaway Airport
+
+Pine Mountain --- PIM --- Harris County Airport
+
+Gainesville --- GVL --- Lee Gilmer Memorial Airport
+
+New Philadelpha --- PHD --- Harry Clever Field
+
+Hilton Head Island --- HHH --- Hilton Head Airport
+
+Augusta --- DNL --- Daniel Field
+
+Morganton --- MRN --- Foothills Regional Airport
+
+Pikeville --- PVL --- Pike County-Hatcher Field
+
+Toccoa --- TOC --- Toccoa Airport - R.G. Letourneau Field
+
+Fort Worth --- AFW --- Fort Worth Alliance Airport
+
+Lawrence --- LWC --- Lawrence Municipal Airport
+
+Pompano Beach --- PPM --- Pompano Beach Airpark
+
+London --- LOZ --- London-Corbin Airport/Magee Field
+
+Fredericksburg --- FBG --- Simmons Army Air Field
+
+Racine --- RAC --- John H Batten Airport
+
+Tacoma --- TIW --- Tacoma Narrows Airport
+
+Gulf Shores --- GUF --- Jack Edwards Airport
+
+Hazleton --- HZL --- Hazleton Municipal Airport
+
+Cumberland --- CBE --- Greater Cumberland Regional Airport
+
+Lone Rock --- LNR --- Tri-County Regional Airport
+
+Joliet --- JOT --- Joliet Regional Airport
+
+Peru --- VYS --- Illinois Valley Regional Airport-Walter A Duncan Field
+
+Jackson --- JXN --- Jackson County Reynolds Field
+
+Philadelphia --- BBX --- Wings Field
+
+Okeechobee --- OBE --- Okeechobee County Airport
+
+Sebring --- SEF --- Sebring Regional Airport
+
+Avon Park --- AVO --- Avon Park Executive Airport
+
+Winter Haven --- GIF --- Winter Haven Regional Airport - Gilbert Field
+
+Zephyrhills --- ZPH --- Zephyrhills Municipal Airport
+
+Ocala --- OCF --- Ocala International Airport - Jim Taylor Field
+
+Aiken --- AIK --- Aiken Regional Airport
+
+Camden --- CDN --- Woodward Field
+
+Lumberton --- LBT --- Lumberton Regional Airport
+
+Pinehurst-Southern Pines --- SOP --- Moore County Airport
+
+Statesville --- SVH --- Statesville Regional Airport
+
+Lock Haven --- LHV --- William T. Piper Memorial Airport
+
+Cleveland --- BKL --- Burke Lakefront Airport
+
+Dunkirk --- DKK --- Chautauqua County-Dunkirk Airport
+
+Mount Holly --- LLY --- South Jersey Regional Airport
+
+Linden --- LDJ --- Linden Airport
+
+Angola --- ANQ --- Tri State Steuben County Airport
+
+Clearwater --- CLW --- Clearwater Air Park
+
+Chicago --- CGX --- Chicago Meigs Airport
+
+North Myrtle Beach --- CRE --- Grand Strand Airport
+
+Wilkes-Barre --- WBW --- Wilkes Barre Wyoming Valley Airport
+
+Willoughby --- LNN --- Willoughby Lost Nation Municipal Airport
+
+Frankfort --- FFT --- Capital City Airport
+
+Lewiston --- LEW --- Auburn Lewiston Municipal Airport
+
+Marco Island --- MRK --- Marco Island Executive Airport
+
+Drummond Island --- DRE --- Drummond Island Airport
+
+Gladwin --- GDW --- Gladwin Zettel Memorial Airport
+
+Marshfield --- MFI --- Marshfield Municipal Airport
+
+Wisconsin Rapids --- ISW --- Alexander Field South Wood County Airport
+
+Clinton --- CWI --- Clinton Municipal Airport
+
+Beverly --- BVY --- Beverly Municipal Airport
+
+Poplar Bluff --- POF --- Poplar Bluff Municipal Airport
+
+Keokuk --- EOK --- Keokuk Municipal Airport
+
+St. Paul --- STP --- St Paul Downtown Holman Field
+
+Hamilton --- HAO --- Butler Co Regional Airport - Hogan Field
+
+Fond du Lac --- FLD --- Fond du Lac County Airport
+
+Stevens Point --- STE --- Stevens Point Municipal Airport
+
+Galion --- GQQ --- Galion Municipal Airport
+
+Clarksville --- CKV --- Clarksville–Montgomery County Regional Airport
+
+Lompoc --- LPC --- Lompoc Airport
+
+Coatesville --- CTH --- Chester County G O Carlson Airport
+
+Lake Placid --- LKP --- Lake Placid Airport
+
+Lima --- AOH --- Lima Allen County Airport
+
+Brunswick --- SSI --- Malcolm McKinnon Airport
+
+Beaver Falls --- BFP --- Beaver County Airport
+
+Georgetown --- GGE --- Georgetown County Airport
+
+Cleveland --- HDI --- Hardwick Field
+
+Renton --- RNT --- Renton Municipal Airport
+
+La Verne --- POC --- Brackett Field
+
+Cross City --- CTY --- Cross City Airport
+
+Clemson --- CEU --- Oconee County Regional Airport
+
+Wichita --- BEC --- Beech Factory Airport
+
+Sidney --- SNY --- Sidney Municipal-Lloyd W Carr Field
+
+Kapolei --- JRF --- Kalaeloa Airport
+
+East Tawas --- ECA --- Iosco County Airport
+
+Boulder --- WBU --- Boulder Municipal Airport
+
+Palo Alto --- PAO --- Palo Alto Airport of Santa Clara County
+
+Mesa --- MSC --- Falcon Field
+
+Pontiac --- PTK --- Oakland County International Airport
+
+Keene --- EEN --- Dillant Hopkins Airport
+
+Iowa City --- IOW --- Iowa City Municipal Airport
+
+Annapolis --- ANP --- Lee Airport
+
+Pecos --- PEQ --- Pecos Municipal Airport
+
+Hattiesburg --- HBG --- Hattiesburg Bobby L Chain Municipal Airport
+
+Yankton --- YKN --- Chan Gurney Municipal Airport
+
+Hayward --- HWD --- Hayward Executive Airport
+
+Ann Arbor --- ARB --- Ann Arbor Municipal Airport
+
+Alameda --- NGZ --- Alameda Naval Air Station
+
+Immokalee  --- IMM --- Immokalee Regional Airport
+
+Petersburg --- PTB --- Dinwiddie County Airport
+
+Sheboygan --- SBM --- Sheboygan County Memorial Airport
+
+Marana --- MZJ --- Pinal Airpark
+
+Safford --- SAD --- Safford Regional Airport
+
+Sikeston --- SIK --- Sikeston Memorial Municipal Airport
+
+Queensbury --- GFL --- Floyd Bennett Memorial Airport
+
+Baltimore --- MTN --- Martin State Airport
+
+Fryeburg --- FRY --- Eastern Slopes Regional Airport
+
+New Orleans --- NEW --- Lakefront Airport
+
+Coeur d'Alene --- COE --- Coeur D'Alene - Pappy Boyington Field
+
+Beaumont --- BMT --- Beaumont Municipal Airport
+
+Danville --- DNV --- Vermilion Regional Airport
+
+Titusville --- TIX --- Space Coast Regional Airport
+
+Houston --- AAP --- Andrau Airpark
+
+Eden Prairie --- FCM --- Flying Cloud Airport
+
+Olathe --- OJC --- Johnson County Executive Airport
+
+Manassas --- MNZ --- Manassas Regional Airport/Harry P. Davis Field
+
+Angleton --- LJN --- Texas Gulf Coast Regional Airport
+
+Port alsworth --- PTA --- Port Alsworth Airport
+
+Newton --- EWK --- Newton City-County Airport
+
+Columbus --- TZR --- Taszár Air Base
+
+Fort Bridger --- FBR --- Fort Bridger Airport
+
+Chehalis --- CLS --- Chehalis Centralia Airport
+
+Evanston --- EVW --- Evanston-Uinta County Airport-Burns Field
+
+Eufala --- EUF --- Weedon Field
+
+Manteo --- MEO --- Dare County Regional Airport
+
+Auburn --- AUO --- Auburn University Regional Airport
+
+Dublin --- DBN --- W H 'Bud' Barron Airport
+
+Corvallis --- CVO --- Corvallis Municipal Airport
+
+Ogden --- OGD --- Ogden Hinckley Airport
+
+Akron --- AKO --- Colorado Plains Regional Airport
+
+Shelton --- SHN --- Sanderson Field
+
+Napakiak --- WNA --- Napakiak Airport
+
+Napaskiak --- PKA --- Napaskiak Airport
+
+Doylestown --- DYL --- Doylestown Airport
+
+Washington --- OCW --- Warren Field
+
+Stillwater --- SWO --- Stillwater Regional Airport
+
+Okmulgee --- OKM --- Okmulgee Regional Airport
+
+Cushing --- CUH --- Cushing Municipal Airport
+
+Clinton --- CSM --- Clinton Sherman Airport
+
+Winfield --- WLD --- Strother Field
+
+Oklahoma City --- PWA --- Wiley Post Airport
+
+Shreveport --- DTN --- Shreveport Downtown Airport
+
+Stephenville --- SEP --- Stephenville Clark Regional Airport
+
+Perry --- \N --- Perry Municipal Airport
+
+Hamilton --- \N --- Hamilton Municipal Airport
+
+Ada --- ADT --- Ada Regional Airport
+
+Iraan --- IRB --- Iraan Municipal Airport
+
+North Wilkesboro --- IKB --- Wilkes County Airport
+
+Danville --- DAN --- Danville Regional Airport
+
+Cheraw --- HCW --- Cheraw Municipal Airport/Lynch Bellinger Field
+
+El Monte --- EMT --- San Gabriel Valley Airport
+
+Stinson --- SSF --- Stinson Municipal Airport
+
+Jasper --- JAS --- Jasper County Airport-Bell Field
+
+Marfa --- MRF --- Marfa Municipal Airport
+
+Alpine --- ALE --- Alpine Casparis Municipal Airport
+
+Upland --- CCB --- Cable Airport
+
+Elkhart --- EKI --- Elkhart Municipal Airport
+
+Columbia --- CUB --- Jim Hamilton L.B. Owens Airport
+
+Greenville --- GDC --- Donaldson Field Airport
+
+Hartsville --- HVS --- Hartsville Regional Airport
+
+Leesburg --- LEE --- Leesburg International Airport
+
+Chino --- CNO --- Chino Airport
+
+Paso Robles --- PRB --- Paso Robles Municipal Airport
+
+Half Moon Bay --- HAF --- Half Moon Bay Airport
+
+Lancaster --- WJF --- General WM J Fox Airfield
+
+Talladega --- ASN --- Talladega Municipal Airport
+
+Greenville --- GMU --- Greenville Downtown Airport
+
+Troy --- TOI --- Troy Municipal Airport at N Kenneth Campbell Field
+
+Enterprise --- ETS --- Enterprise Municipal Airport
+
+Alexander City --- ALX --- Thomas C Russell Field
+
+Holdredge --- HDE --- Brewster Field
+
+Pratt --- PTT --- Pratt Regional Airport
+
+Lexington --- LXN --- Jim Kelly Field
+
+Council Bluffs --- CBF --- Council Bluffs Municipal Airport
+
+Kokomo --- OKK --- Kokomo Municipal Airport
+
+Galesburg --- GBG --- Galesburg Municipal Airport
+
+Guymon --- GUY --- Guymon Municipal Airport
+
+Independence --- IDP --- Independence Municipal Airport
+
+Bay City --- BBC --- Bay City Municipal Airport
+
+Paris --- PRX --- Cox Field
+
+Coffeyville --- CFV --- Coffeyville Municipal Airport
+
+Greeley --- GXY --- Greeley–Weld County Airport
+
+Oakley --- OEL --- Oryol Yuzhny Airport
+
+Fremont --- FET --- Fremont Municipal Airport
+
+La Grande --- LGD --- La Grande/Union County Airport
+
+Mount Pocono --- MPO --- Pocono Mountains Municipal Airport
+
+Quakertown --- UKT --- Quakertown Airport
+
+Banning --- BNG --- Banning Municipal Airport
+
+Norfolk --- OFK --- Karl Stefan Memorial Airport
+
+Tampa --- TPF --- Peter O Knight Airport
+
+Montauk --- MTP --- Montauk Airport
+
+Valparaiso --- VPZ --- Porter County Municipal Airport
+
+Ludington --- LDM --- Mason County Airport
+
+San Jose --- RHV --- Reid-Hillview Airport of Santa Clara County
+
+Watsonville --- WVI --- Watsonville Municipal Airport
+
+Hollister --- HLI --- Hollister Municipal Airport
+
+Alton --- ALN --- St Louis Regional Airport
+
+Alexandria --- AXN --- Chandler Field
+
+Columbus --- CLU --- Columbus Municipal Airport
+
+Brady --- BBD --- Curtis Field
+
+Bishop --- BIH --- Eastern Sierra Regional Airport
+
+Baker City --- BKE --- Baker City Municipal Airport
+
+Big Piney --- BPI --- Miley Memorial Field
+
+Mountain Home --- WMH --- Ozark Regional Airport
+
+Battle Creek --- BTL --- W K Kellogg Airport
+
+Burley --- BYI --- Burley Municipal Airport
+
+Charles City --- CCY --- Northeast Iowa Regional Airport
+
+Chanute --- CNU --- Chanute Martin Johnson Airport
+
+Jacksonville --- CRG --- Jacksonville Executive at Craig Airport
+
+Crossville --- CSV --- Crossville Memorial Whitson Field
+
+Fort Belvoir --- DAA --- Davison Army Air Field
+
+Daggett --- DAG --- Barstow Daggett Airport
+
+Deming --- DMN --- Deming Municipal Airport
+
+Mercury --- DRA --- Desert Rock Airport
+
+Needles --- EED --- Needles Airport
+
+Crestview --- EGI --- Duke Field
+
+Eureka --- EKA --- Murray Field
+
+Hayward --- HYR --- Sawyer County Airport
+
+Junction --- JCT --- Kimble County Airport
+
+Lovelock --- LOL --- Derby Field
+
+Mobridge --- MBG --- Mobridge Municipal Airport
+
+Mc Comb --- MCB --- Mc Comb/Pike County Airport/John E Lewis Field
+
+Carbondale --- MDH --- Southern Illinois Airport
+
+Eastover --- MMT --- Mc Entire Joint National Guard Base
+
+Brunswick --- NHZ --- Brunswick Executive Airport
+
+Mayport --- NRB --- Naval Station Mayport (Admiral David L. Mcdonald Field)
+
+Orangeburg --- OGB --- Orangeburg Municipal Airport
+
+Ottumwa --- OTM --- Ottumwa Regional Airport
+
+Ozark --- OZR --- Cairns AAF (Fort Rucker) Air Field
+
+Pinedale --- PWY --- Ralph Wenz Field
+
+Poughkeepsie --- POU --- Dutchess County Airport
+
+Russell --- RSL --- Russell Municipal Airport
+
+Redwood Falls --- RWF --- Redwood Falls Municipal Airport
+
+Salinas --- SNS --- Salinas Municipal Airport
+
+Tonopah --- TPH --- Tonopah Airport
+
+Ukiah --- UKI --- Ukiah Municipal Airport
+
+Oxford --- UOX --- University Oxford Airport
+
+Huntsville --- HTV --- Huntsville Regional Airport
+
+Valentine --- VTN --- Miller Field
+
+Winnemucca --- WMC --- Winnemucca Municipal Airport
+
+Woodward --- WWR --- West Woodward Airport
+
+Zanesville --- ZZV --- Zanesville Municipal Airport
+
+Nenana --- ENN --- Nenana Municipal Airport
+
+Wasilla --- WWA --- Wasilla Airport
+
+Skagit --- MVW --- Skagit Regional Airport
+
+Jasper --- APT --- Marion County Brown Field
+
+Decatur --- DCU --- Pryor Field Regional Airport
+
+Glasgow --- GLW --- Glasgow Municipal Airport
+
+Rensselaer --- RNZ --- Jasper County Airport
+
+Statesboro --- TBR --- Statesboro Bulloch County Airport
+
+West Bend --- ETB --- West Bend Municipal Airport
+
+Gaylord --- GLR --- Gaylord Regional Airport
+
+Anderson --- AID --- Anderson Municipal Darlington Field
+
+Prairie du Chien --- PCD --- Prairie Du Chien Municipal Airport
+
+Taos --- TSM --- Taos Regional Airport
+
+Raton --- RTN --- Raton Municipal-Crews Field
+
+Pampa --- PPA --- Perry Lefors Field
+
+Flippin --- FLP --- Marion County Regional Airport
+
+Borger --- BGD --- Hutchinson County Airport
+
+Santa Ynez --- SQA --- Santa Ynez Airport
+
+Spartangurg --- SPA --- Spartanburg Downtown Memorial Airport
+
+Parsons --- PPF --- Tri-City Airport
+
+Waycross --- AYS --- Waycross Ware County Airport
+
+Portsmouth --- PMH --- Greater Portsmouth Regional Airport
+
+Clarks Point --- CLP --- Clarks Point Airport
+
+Red Dog --- RDB --- Red Dog Airport
+
+Seldovia --- SOV --- Seldovia Airport
+
+Vidalia --- VDI --- Vidalia Regional Airport
+
+Mitchell --- MHE --- Mitchell Municipal Airport
+
